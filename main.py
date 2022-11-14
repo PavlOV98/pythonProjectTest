@@ -4,6 +4,8 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-print("Hello world")
+print("Hello world 1")
+
+import  second
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
